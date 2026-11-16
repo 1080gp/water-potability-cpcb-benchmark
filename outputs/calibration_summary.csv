@@ -1,0 +1,4 @@
+Model_Calibration,Brier_Score,Brier_Skill_Score
+Always-Predict-Prevalence Baseline,0.238,0.0
+Raw Balanced RF Scores (Uncalibrated),0.2167,0.0891
+Isotonic-Calibrated RF (Fit on Val),0.209,0.1219

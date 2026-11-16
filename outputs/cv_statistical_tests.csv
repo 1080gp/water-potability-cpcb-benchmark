@@ -1,0 +1,6 @@
+Comparison,Mean_AUC_Diff,Nadeau_Bengio_t,Nadeau_Bengio_p,Significant_0.05
+SVM vs. Proposed Model - Tuned Random Forest,0.0098,0.8617,0.4034,False
+Random Forest vs. Proposed Model - Tuned Random Forest,-0.0047,-1.2003,0.2499,False
+KNN vs. Proposed Model - Tuned Random Forest,-0.043,-3.8141,0.0019,True
+Logistic Regression vs. Proposed Model - Tuned Random Forest,-0.0748,-6.8511,0.0,True
+Decision Tree vs. Proposed Model - Tuned Random Forest,-0.0762,-5.1762,0.0001,True

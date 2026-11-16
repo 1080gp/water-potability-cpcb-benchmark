@@ -1,0 +1,310 @@
+\clearpage
+\begin{thebibliography}{65}
+\ifx \doiurl \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+
+\bibitem{unesco2023}
+UNESCO / UN-Water: The United Nations World Water Development Report 2023: Partnerships and Cooperation for Water.
+UNESCO, Paris (2023).
+
+\bibitem{akhtar2021}
+Akhtar, N. and Syakir Ishak, M. I. and Bhawani, S. A. and Umar, K.: Various natural and anthropogenic factors responsible for water quality degradation: a review.
+\textit{Water} \textbf{13}, 2660 (2021).
+\doiurl{10.3390/w13192660}
+
+\bibitem{peters2000}
+Peters, N. E. and Meybeck, M.: Water quality degradation effects on freshwater availability: impacts of human activities.
+\textit{Water International} \textbf{25}(2), 185--193 (2000).
+\doiurl{10.1080/02508060008686817}
+
+\bibitem{rashmi2020}
+Rashmi, I. and Roy, T. and Kartika, K. S. and Pal, R. and Coumar, V. and Kala, S. and Shinoji, K. C.: Organic and inorganic fertilizer contaminants in agriculture: impact on soil and water resources.
+In: \textit{Contaminants in Agriculture}, pp. 3--41. Springer (2020).
+\doiurl{10.1007/978-3-030-41552-5_1}
+
+\bibitem{mccutcheon1992}
+McCutcheon, S. C. and Martin, J. L. and Barnwell, T. O.: Water quality.
+In: \textit{Handbook of Hydrology}, pp. 11.1--11.73. McGraw-Hill (1992).
+
+\bibitem{who2017}
+World Health Organization: Guidelines for Drinking-Water Quality: Fourth Edition Incorporating the First Addendum.
+World Health Organization, Geneva (2017).
+
+\bibitem{rachid2025}
+Rachid, El-Bacha and Abderrahim, Salhi and Hafid, Abderrafia and Souad, Rabi: Predicting water potability using a machine learning approach.
+\textit{Environmental Challenges} \textbf{19}, 101131 (2025).
+\doiurl{10.1016/j.envc.2025.101131}
+
+\bibitem{kadiwal2020}
+Kadiwal, Aditya: Water Potability Dataset: Cleaned Drinking Water Quality Metrics.
+Kaggle Repository, \url{https://www.kaggle.com/datasets/uom190346a/water-potability} (2020).
+
+\bibitem{ghosh2023}
+Ghosh, Hritwik and Tusher, M. A. and Rahat, I. S. and Khasim, S. and Mohanty, S. N.: Water quality assessment through predictive machine learning.
+In: \textit{Intelligent Computing and Networking (IC-ICN 2023), Lecture Notes in Networks and Systems}, vol. 699. Springer (2023).
+\doiurl{10.1007/978-981-99-3177-4_6}
+
+\bibitem{kaddoura2022}
+Kaddoura, Sanaa: Evaluation of machine learning algorithm on drinking water quality for better sustainability.
+\textit{Sustainability} \textbf{14}(18), 11478 (2022).
+\doiurl{10.3390/su141811478}
+
+\bibitem{ahmed2019}
+Ahmed, Ali Najah and Othman, Faridah Binti and Afan, Haitham Abdulmohsin and Ibrahim, Ruslan Khalid and Fai, Chow Ming and Hossain, Md. Shahadat and Ehteram, Mohammad and Elshafie, Ahmed: Machine learning methods for better water quality prediction.
+\textit{Journal of Hydrology} \textbf{578}, 124084 (2019).
+\doiurl{10.1016/j.jhydrol.2019.124084}
+
+\bibitem{bui2020}
+Bui, Dieu Tien and Khosravi, Khabat and Tiefenbacher, John and Nguyen, Hoang and Yaseen, Zaher Mundher: Improving forecasting water quality index using novel hybrid machine-learning approach.
+\textit{Science of The Total Environment} \textbf{721}, 137612 (2020).
+\doiurl{10.1016/j.scitotenv.2020.137612}
+
+\bibitem{aldhyani2020}
+Aldhyani, Theyazn H. H. and Al-Yaari, Mohammed and Alkahtani, Hasan and Maashi, Mashael: Water quality prediction using artificial intelligence algorithms.
+\textit{Applied Bionics and Biomechanics} \textbf{2020}, 6659314 (2020).
+\doiurl{10.1155/2020/6659314}
+
+\bibitem{kaufman2012}
+Kaufman, Shachar and Rosset, Saharon and Perlich, Claudia and Stitelman, Ori: Leakage in data mining: Formulation, detection, and avoidance.
+\textit{ACM Transactions on Knowledge Discovery from Data (TKDD)} \textbf{6}(4), 1--21 (2012).
+\doiurl{10.1145/2382577.2382579}
+
+\bibitem{kapoor2023}
+Kapoor, Sayash and Narayanan, Arvind: Leakage and the reproducibility crisis in machine-learning-based science.
+\textit{Patterns} \textbf{4}(9), 100804 (2023).
+\doiurl{10.1016/j.patter.2023.100804}
+
+\bibitem{legendre1993}
+Legendre, Pierre: Spatial autocorrelation: trouble or new paradigm?.
+\textit{Ecology} \textbf{74}(6), 1659--1673 (1993).
+\doiurl{10.2307/1939924}
+
+\bibitem{roberts2017}
+Roberts, David R. and Bahn, Volker and Ciuti, Simone and Boyce, Mark S. and Elith, Jane and Guillera-Arroita, Gurutzeta and Hauenstein, Severin and Lahoz-Monfort, Jos{\'e} J. and Schr{\"o}der, Boris and Thuiller, Wilfried and others: Cross-validation strategies for data with temporal, spatial, hierarchical or phylogenetic structure.
+\textit{Ecography} \textbf{40}(8), 913--929 (2017).
+\doiurl{10.1111/ecog.02881}
+
+\bibitem{ploton2020}
+Ploton, Pierre and Mortier, Fr{\'e}d{\'e}ric and R{\'e}jou-M{\'e}chain, Maxime and Barbier, Nicolas and Picard, Nicolas and Rossi, Vivien and Dormann, Carsten F. and Cornu, Guillaume and Viennois, J{\'e}r{\^o}me and Bayol, Nicolas and others: Spatial validation reveals poor predictive performance of large-scale machine learning models.
+\textit{Nature Communications} \textbf{11}(1), 4540 (2020).
+\doiurl{10.1038/s41467-020-18321-y}
+
+\bibitem{meyer2018}
+Meyer, Hanna and Reudenbach, Christoph and Hengl, Tomislav and Katurji, Marwan and Nauss, Thomas: Improving performance of spatio-temporal machine learning models using spatial cross-validation and feature selection.
+\textit{Environmental Modelling \& Software} \textbf{101}, 1--11 (2018).
+\doiurl{10.1016/j.envsoft.2017.12.001}
+
+\bibitem{nadeau2003}
+Nadeau, Claude and Bengio, Yoshua: Inference for the generalization error.
+\textit{Machine Learning} \textbf{52}(3), 239--281 (2003).
+\doiurl{10.1023/A:1024068626366}
+
+\bibitem{cpcb2024}
+Central Pollution Control Board (CPCB) / NWMP: Processed CPCB-NWMP 2024 Water Quality Dataset and Analysis Code for Explainable Ensemble Classification of Indian Lakes, Ponds, and Tanks (Version 2).
+Mendeley Data (CC BY 4.0), \url{https://data.mendeley.com/datasets/6rhkyn9phm/2} (2024).
+
+\bibitem{sokolova2022}
+Sokolova, Ekaterina and Ivarsson, O. and Lilliestr{\"o}m, A. and Speicher, N. K. and Rydberg, H. and Bondelind, Mia: Data-driven models for predicting microbial water quality in the drinking water source using \textit{E. coli} monitoring and hydrometeorological data.
+\textit{Science of the Total Environment} \textbf{802}, 149798 (2022).
+\doiurl{10.1016/j.scitotenv.2021.149798}
+
+\bibitem{mohammed2017}
+Mohammed, H. and Hameed, I. A. and Seidu, R.: Random forest tree for predicting fecal indicator organisms in drinking water supply.
+In: \textit{2017 International Conference on Behavioral, Economic, Sociocultural Computing (BESC)}, pp. 1--6. IEEE (2017).
+\doiurl{10.1109/BESC.2017.8256398}
+
+\bibitem{horton1965}
+Horton, Robert K.: An index number system for rating water quality.
+\textit{Journal of the Water Pollution Control Federation} \textbf{37}(3), 300--306 (1965).
+
+\bibitem{brown1970}
+Brown, Robert M. and McClelland, Nina I. and Deininger, Rolf A. and Tozer, Ronald G.: A water quality index---do we dare?.
+\textit{Water \& Sewage Works} \textbf{117}(10), 339--343 (1970).
+
+\bibitem{tyagi2013}
+Tyagi, Shweta and Sharma, Bhavtosh and Singh, Prashant and Dobhal, Rajendra: Water quality assessment in terms of water quality index.
+\textit{American Journal of Water Resources} \textbf{1}(3), 34--38 (2013).
+\doiurl{10.12691/ajwr-1-3-3}
+
+\bibitem{abbasi2012}
+Abbasi, Tasneem and Abbasi, S. A.: Water Quality Indices.
+Elsevier, Amsterdam (2012).
+
+\bibitem{haghiabi2018}
+Haghiabi, Amir Hamzeh and Nasrolahi, Ali Heidar and Parsaie, Abbas: Water quality prediction using machine learning methods.
+\textit{Water Quality Research Journal} \textbf{53}(1), 3--13 (2018).
+\doiurl{10.2166/wqrj.2018.025}
+
+\bibitem{azrour2022}
+Azrour, Mourade and Mabrouki, Jamal and Fattah, G. and Guezzaz, Azidine and Aziz, Faissal: Machine learning algorithms for efficient water quality prediction.
+\textit{Modeling Earth Systems and Environment} \textbf{8}, 2793--2801 (2022).
+\doiurl{10.1007/s40808-021-01266-6}
+
+\bibitem{ainapure2023}
+Ainapure, B. and Baheti, N. and Buch, J. and Appasani, B. and Jha, A. V. and Srinivasulu, A.: Drinking water potability prediction using machine learning approaches: a case study of Indian rivers.
+\textit{Water Practice and Technology} \textbf{18}(12), 3004--3020 (2023).
+\doiurl{10.2166/wpt.2023.202}
+
+\bibitem{zhu2022}
+Zhu, M. and Wang, J. and Yang, X. and Zhang, Y. and Zhang, L. and Ren, H. and Wu, B. and Ye, L.: A review of the application of machine learning in water quality evaluation.
+\textit{Eco-Environment \& Health} \textbf{1}(2), 107--116 (2022).
+\doiurl{10.1016/j.eehl.2022.06.001}
+
+\bibitem{yan2024}
+Yan, X. and Zhang, T. and Du, W. and Meng, Q. and Xu, X. and Zhao, X.: A comprehensive review of machine learning for water quality prediction over the past five years.
+\textit{Journal of Marine Science and Engineering} \textbf{12}, 159 (2024).
+\doiurl{10.3390/jmse12010159}
+
+\bibitem{rajaee2019}
+Rajaee, Taher and Khani, Shima and Ravansalar, Mona: Artificial intelligence-based single and hybrid models for prediction of water quality in rivers: A review.
+\textit{Chemometrics and Intelligent Laboratory Systems} \textbf{200}, 103978 (2019).
+\doiurl{10.1016/j.chemolab.2020.103978}
+
+\bibitem{vabalas2019}
+Vabalas, Andrius and Gowen, Emma and Poliakoff, Ellen and Casson, Alexander J.: Machine learning algorithm validation with a limited sample size.
+\textit{PLOS ONE} \textbf{14}(11), e0224365 (2019).
+\doiurl{10.1371/journal.pone.0224365}
+
+\bibitem{elkan2001}
+Elkan, Charles: The foundations of cost-sensitive learning.
+In: \textit{Proceedings of the 17th International Joint Conference on Artificial Intelligence (IJCAI)}, vol. 2, pp. 973--978 (2001).
+
+\bibitem{he2009}
+He, Haibo and Garcia, Edwardo A.: Learning from imbalanced data.
+\textit{IEEE Transactions on Knowledge and Data Engineering} \textbf{21}(9), 1263--1284 (2009).
+\doiurl{10.1109/TKDE.2008.239}
+
+\bibitem{usepa2018}
+United States Environmental Protection Agency: 2018 Edition of the Drinking Water Standards and Health Advisories Tables.
+Technical Report EPA 822-F-18-001, Office of Water, U.S. EPA (2018).
+
+\bibitem{bis2012}
+Bureau of Indian Standards: Indian Standard: Drinking Water---Specification (Second Revision).
+Technical Report IS 10500:2012, Bureau of Indian Standards (2012).
+
+\bibitem{pedregosa2011}
+Pedregosa, Fabian and Varoquaux, Ga{\"e}l and Gramfort, Alexandre and Michel, Vincent and Thirion, Bertrand and Grisel, Olivier and Blondel, Mathieu and Prettenhofer, Peter and Weiss, Ron and Dubourg, Vincent and others: Scikit-learn: Machine learning in Python.
+\textit{Journal of Machine Learning Research} \textbf{12}, 2825--2830 (2011).
+
+\bibitem{vanbuuren2011}
+van Buuren, Stef and Groothuis-Oudshoorn, Karin: mice: Multivariate imputation by chained equations in R.
+\textit{Journal of Statistical Software} \textbf{45}(3), 1--67 (2011).
+\doiurl{10.18637/jss.v045.i03}
+
+\bibitem{little2019}
+Little, Roderick J. A. and Rubin, Donald B.: Statistical Analysis with Missing Data.
+3rd edn. John Wiley \& Sons, Hoboken, NJ (2019).
+
+\bibitem{breiman2001}
+Breiman, Leo: Random forests.
+\textit{Machine Learning} \textbf{45}(1), 5--32 (2001).
+\doiurl{10.1023/A:1010933404324}
+
+\bibitem{cortes1995}
+Cortes, Corinna and Vapnik, Vladimir: Support-vector networks.
+\textit{Machine Learning} \textbf{20}(3), 273--297 (1995).
+\doiurl{10.1007/BF00994018}
+
+\bibitem{cox1958}
+Cox, David R.: The regression analysis of binary sequences.
+\textit{Journal of the Royal Statistical Society: Series B (Methodological)} \textbf{20}(2), 215--232 (1958).
+\doiurl{10.1111/j.2517-6161.1958.tb00292.x}
+
+\bibitem{liu1989}
+Liu, Dong C. and Nocedal, Jorge: On the limited memory BFGS method for large scale optimization.
+\textit{Mathematical Programming} \textbf{45}(1--3), 503--528 (1989).
+\doiurl{10.1007/BF01589116}
+
+\bibitem{breiman1984}
+Breiman, Leo and Friedman, Jerome and Olshen, Richard and Stone, Charles: Classification and Regression Trees.
+\textit{} (1984).
+
+\bibitem{cover1967}
+Cover, Thomas and Hart, Peter: Nearest neighbor pattern classification.
+\textit{IEEE Transactions on Information Theory} \textbf{13}(1), 21--27 (1967).
+\doiurl{10.1109/TIT.1967.1053964}
+
+\bibitem{zadrozny2002}
+Zadrozny, Bianca and Elkan, Charles: Transforming classifier scores into accurate multiclass probability estimates.
+In: \textit{Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)}, pp. 694--699 (2002).
+\doiurl{10.1145/775047.775151}
+
+\bibitem{platt1999}
+Platt, John: Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods.
+In: \textit{Advances in Large Margin Classifiers}, pp. 61--74. MIT Press (1999).
+
+\bibitem{niculescumizil2005}
+Niculescu-Mizil, Alexandru and Caruana, Rich: Predicting good probabilities with supervised learning.
+In: \textit{Proceedings of the 22nd International Conference on Machine Learning (ICML)}, pp. 625--632 (2005).
+\doiurl{10.1145/1102351.1102430}
+
+\bibitem{brier1950}
+Brier, Glenn W.: Verification of forecasts expressed in terms of probability.
+\textit{Monthly Weather Review} \textbf{78}(1), 1--3 (1950).
+\doiurl{10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2}
+
+\bibitem{lundberg2017}
+Lundberg, Scott M. and Lee, Su-In: A unified approach to interpreting model predictions.
+In: \textit{Advances in Neural Information Processing Systems (NeurIPS)}, vol. 30, pp. 4765--4774 (2017).
+
+\bibitem{lundberg2020}
+Lundberg, Scott M. and Erion, Gabriel and Chen, Hugh and DeGrave, Alex and Prutkin, Jordan M. and Nair, Bala and Katz, Ronit and Himmelfarb, Jonathan and Bansal, Nisha and Lee, Su-In: From local explanations to global understanding with explainable AI for trees.
+\textit{Nature Machine Intelligence} \textbf{2}(1), 56--67 (2020).
+\doiurl{10.1038/s42256-019-0138-9}
+
+\bibitem{molnar2020}
+Molnar, Christoph: Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.
+2nd edn. Leanpub (2020).
+
+\bibitem{virtanen2020}
+Virtanen, Pauli and Gommers, Ralf and Oliphant, Travis E. and Haberland, Matt and Reddy, Tyler and Cournapeau, David and Burovski, Evgeni and Peterson, Pearu and Weckesser, Warren and Bright, Jonathan and others: SciPy 1.0: Fundamental algorithms for scientific computing in Python.
+\textit{Nature Methods} \textbf{17}(3), 261--272 (2020).
+\doiurl{10.1038/s41592-019-0686-2}
+
+\bibitem{harris2020}
+Harris, Charles R. and Millman, K. Jarrod and van der Walt, St{\'e}fan J. and Gommers, Ralf and Virtanen, Pauli and Cournapeau, David and Wieser, Eric and Taylor, Julian and Berg, Sebastian and Smith, Nathaniel J. and others: Array programming with NumPy.
+\textit{Nature} \textbf{585}(7825), 357--362 (2020).
+\doiurl{10.1038/s41586-020-2649-2}
+
+\bibitem{mckinney2010}
+McKinney, Wes: Data structures for statistical computing in Python.
+In: \textit{Proceedings of the 9th Python in Science Conference (SciPy 2010)}, pp. 51--56 (2010).
+
+\bibitem{wilson1927}
+Wilson, Edwin B.: Probable inference, the law of population, and the binomial distribution.
+\textit{Science} \textbf{65}(1681), 268--270 (1927).
+\doiurl{10.1126/science.65.1681.268}
+
+\bibitem{mcnemar1947}
+McNemar, Quinn: Note on the sampling error of the difference between correlated proportions or percentages.
+\textit{Psychometrika} \textbf{12}(2), 153--157 (1947).
+\doiurl{10.1007/BF02295996}
+
+\bibitem{dietterich2000}
+Dietterich, Thomas G.: Ensemble methods in machine learning.
+In: \textit{Multiple Classifier Systems (MCS 2000), Lecture Notes in Computer Science}, vol. 1857, pp. 1--15. Springer (2000).
+\doiurl{10.1007/3-540-45014-9_1}
+
+\bibitem{wolpert1992}
+Wolpert, David H.: Stacked generalization.
+\textit{Neural Networks} \textbf{5}(2), 241--259 (1992).
+\doiurl{10.1016/S0893-6080(05)80023-1}
+
+\bibitem{geurts2006}
+Geurts, Pierre and Ernst, Damien and Wehenkel, Louis: Extremely randomized trees.
+\textit{Machine Learning} \textbf{63}(1), 3--42 (2006).
+\doiurl{10.1007/s10994-006-6226-1}
+
+\bibitem{streamlit2020}
+Streamlit Inc.: Streamlit: An Open-Source Python Framework for Data Science and Machine Learning Applications.
+\url{https://streamlit.io} (2020).
+
+\bibitem{vovk2005}
+Vovk, Vladimir and Gammerman, Alex and Shafer, Glenn: Algorithmic Learning in a Random World.
+Springer, New York (2005).
+\doiurl{10.1007/b106715}
+
+\bibitem{angelopoulos2021}
+Angelopoulos, Anastasios N. and Bates, Stephen: A gentle introduction to conformal prediction and distribution-free uncertainty quantification.
+\textit{arXiv preprint arXiv:2107.07511} (2021).
+
+\end{thebibliography}

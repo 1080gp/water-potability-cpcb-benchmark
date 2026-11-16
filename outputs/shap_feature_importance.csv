@@ -1,0 +1,11 @@
+Feature,Mean_Absolute_SHAP
+ph,0.04226
+Sulfate,0.04072
+ph_sulfate_ratio,0.02993
+Hardness,0.02433
+Chloramines,0.02026
+Solids,0.0191
+Conductivity,0.01049
+Organic_carbon,0.00859
+Trihalomethanes,0.00796
+Turbidity,0.00693

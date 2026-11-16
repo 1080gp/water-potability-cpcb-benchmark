@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Proposed Model - Tuned Random Forest,0.9806,0.9821,0.9821,0.9821,0.9977
+Random Forest,0.9806,0.9821,0.9821,0.9821,0.9977
+KNN,0.9515,0.9474,0.9643,0.9558,0.9973
+SVM,0.9612,0.9483,0.9821,0.9649,0.9958
+Logistic Regression,0.9612,0.9643,0.9643,0.9643,0.9943
+Decision Tree,0.9612,0.9643,0.9643,0.9643,0.9787

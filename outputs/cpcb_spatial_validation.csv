@@ -1,0 +1,9 @@
+CV_Scheme,Model,Pooled_OOF_Acc,OOF_Acc_95_CI,Fold_Mean_Acc,Fold_Std_Acc,Pooled_F1_or_MacroF1,Pooled_ROC_AUC_or_MacroOvR
+5-Fold GroupKFold,Binary RF (11 Probe),0.8726,"[84.55%, 89.56%]",0.8778,0.0317,0.8869,0.9224
+5-Fold GroupKFold,Binary Logistic Reg (11 Probe),0.8536,"[82.51%, 87.81%]",0.8515,0.0368,0.8599,0.8981
+5-Fold GroupKFold,Binary Heuristic (DO_min >= 4.0),0.8785,"[85.18%, 90.09%]",0.8697,0.0653,0.8865,
+5-Fold GroupKFold,4-Class Regularized RF (11 Probe),0.4993,"[46.19%, 53.67%]",,,0.4835,0.7761
+Leave-One-State-Out (26 States),Binary RF (11 Probe),0.8697,"[84.24%, 89.29%]",0.839,0.2648,0.884,0.9177
+Leave-One-State-Out (26 States),Binary Logistic Reg (11 Probe),0.8492,"[82.04%, 87.41%]",0.8196,0.268,0.8551,0.8888
+Leave-One-State-Out (26 States),Binary Heuristic (DO_min >= 4.0),0.8785,"[85.18%, 90.09%]",0.8108,0.2676,0.8865,
+Leave-One-State-Out (26 States),4-Class Regularized RF (11 Probe),0.5183,"[48.08%, 55.56%]",,,0.5037,0.782

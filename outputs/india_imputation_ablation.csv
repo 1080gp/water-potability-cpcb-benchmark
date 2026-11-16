@@ -1,0 +1,6 @@
+Imputation Strategy,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+1. Mean Imputation,0.9223,0.9,0.9643,0.931,0.9753
+2. Median Imputation,0.9223,0.9138,0.9464,0.9298,0.973
+3. KNN Imputation (k=5),0.9029,0.8966,0.9286,0.9123,0.9677
+4. MICE (BayesianRidge),0.9417,0.931,0.9643,0.9474,0.9802
+5. MICE (ExtraTrees - Proposed),0.9223,0.9138,0.9464,0.9298,0.9669

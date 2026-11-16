@@ -1,0 +1,12 @@
+Feature,Mean_Absolute_SHAP
+DO_min,0.20585
+EC_max,0.05683
+DO_max,0.05196
+pH_EC_ratio,0.04765
+EC_min,0.04318
+Nitrate_max,0.04088
+Nitrate_min,0.02096
+Temp_min,0.01315
+Temp_max,0.01283
+pH_min,0.00966
+pH_max,0.00875

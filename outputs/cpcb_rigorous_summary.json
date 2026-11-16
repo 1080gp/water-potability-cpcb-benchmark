@@ -1,0 +1,99 @@
+{
+  "leakage_experiment": {
+    "leaky_acc": 79.47,
+    "leaky_f1": 0.7021,
+    "leaky_auc": 0.8798,
+    "clean_acc": 68.29,
+    "clean_f1": 0.4507,
+    "clean_auc": 0.6735,
+    "gap_acc": 11.18,
+    "gap_auc": 0.2063
+  },
+  "ovr_auc": {
+    "full_4class_macro_ovr_auc": 0.996,
+    "full_4class_weighted_ovr_auc": 0.9959,
+    "probe_4class_macro_ovr_auc": 0.9297
+  },
+  "spatial_validation": [
+    {
+      "CV_Scheme": "5-Fold GroupKFold",
+      "Model": "Binary RF (11 Probe)",
+      "Pooled_OOF_Acc": 0.8726,
+      "OOF_Acc_95_CI": "[84.55%, 89.56%]",
+      "Fold_Mean_Acc": 0.8778,
+      "Fold_Std_Acc": 0.0317,
+      "Pooled_F1_or_MacroF1": 0.8869,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.9224
+    },
+    {
+      "CV_Scheme": "5-Fold GroupKFold",
+      "Model": "Binary Logistic Reg (11 Probe)",
+      "Pooled_OOF_Acc": 0.8536,
+      "OOF_Acc_95_CI": "[82.51%, 87.81%]",
+      "Fold_Mean_Acc": 0.8515,
+      "Fold_Std_Acc": 0.0368,
+      "Pooled_F1_or_MacroF1": 0.8599,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.8981
+    },
+    {
+      "CV_Scheme": "5-Fold GroupKFold",
+      "Model": "Binary Heuristic (DO_min >= 4.0)",
+      "Pooled_OOF_Acc": 0.8785,
+      "OOF_Acc_95_CI": "[85.18%, 90.09%]",
+      "Fold_Mean_Acc": 0.8697,
+      "Fold_Std_Acc": 0.0653,
+      "Pooled_F1_or_MacroF1": 0.8865,
+      "Pooled_ROC_AUC_or_MacroOvR": NaN
+    },
+    {
+      "CV_Scheme": "5-Fold GroupKFold",
+      "Model": "4-Class Regularized RF (11 Probe)",
+      "Pooled_OOF_Acc": 0.4993,
+      "OOF_Acc_95_CI": "[46.19%, 53.67%]",
+      "Fold_Mean_Acc": NaN,
+      "Fold_Std_Acc": NaN,
+      "Pooled_F1_or_MacroF1": 0.4835,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.7761
+    },
+    {
+      "CV_Scheme": "Leave-One-State-Out (26 States)",
+      "Model": "Binary RF (11 Probe)",
+      "Pooled_OOF_Acc": 0.8697,
+      "OOF_Acc_95_CI": "[84.24%, 89.29%]",
+      "Fold_Mean_Acc": 0.839,
+      "Fold_Std_Acc": 0.2648,
+      "Pooled_F1_or_MacroF1": 0.884,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.9177
+    },
+    {
+      "CV_Scheme": "Leave-One-State-Out (26 States)",
+      "Model": "Binary Logistic Reg (11 Probe)",
+      "Pooled_OOF_Acc": 0.8492,
+      "OOF_Acc_95_CI": "[82.04%, 87.41%]",
+      "Fold_Mean_Acc": 0.8196,
+      "Fold_Std_Acc": 0.268,
+      "Pooled_F1_or_MacroF1": 0.8551,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.8888
+    },
+    {
+      "CV_Scheme": "Leave-One-State-Out (26 States)",
+      "Model": "Binary Heuristic (DO_min >= 4.0)",
+      "Pooled_OOF_Acc": 0.8785,
+      "OOF_Acc_95_CI": "[85.18%, 90.09%]",
+      "Fold_Mean_Acc": 0.8108,
+      "Fold_Std_Acc": 0.2676,
+      "Pooled_F1_or_MacroF1": 0.8865,
+      "Pooled_ROC_AUC_or_MacroOvR": NaN
+    },
+    {
+      "CV_Scheme": "Leave-One-State-Out (26 States)",
+      "Model": "4-Class Regularized RF (11 Probe)",
+      "Pooled_OOF_Acc": 0.5183,
+      "OOF_Acc_95_CI": "[48.08%, 55.56%]",
+      "Fold_Mean_Acc": NaN,
+      "Fold_Std_Acc": NaN,
+      "Pooled_F1_or_MacroF1": 0.5037,
+      "Pooled_ROC_AUC_or_MacroOvR": 0.782
+    }
+  ]
+}

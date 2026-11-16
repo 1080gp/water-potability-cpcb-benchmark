@@ -1,0 +1,7 @@
+Model,Accuracy,Macro-Precision,Macro-Recall,Macro-F1,Weighted-F1
+Decision Tree,0.9417,0.9468,0.9397,0.9426,0.9422
+Random Forest,0.9417,0.9437,0.942,0.9425,0.9421
+Proposed Model - Tuned Random Forest,0.932,0.9331,0.9342,0.933,0.9325
+SVM,0.8058,0.809,0.8005,0.8032,0.8063
+Logistic Regression,0.7961,0.8043,0.8008,0.7991,0.7982
+KNN,0.7864,0.8003,0.775,0.7821,0.7847

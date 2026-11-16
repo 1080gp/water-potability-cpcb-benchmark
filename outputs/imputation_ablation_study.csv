@@ -1,0 +1,6 @@
+Imputation Strategy,CV_Acc_Mean,CV_AUC_Mean,CV_AUC_Std,CV_Unsafe_Recall,Val_Accuracy,Val_Unsafe_Recall_Spec,Val_False_Safe_Rate,Val_Potable_Prec,Val_Potable_Recall,Val_Potable_F1,Val_ROC_AUC
+1. Mean Imputation,0.6659,0.6971,0.0182,0.7804,0.6619,0.8,0.2,0.5862,0.445,0.506,0.6721
+2. Median Imputation,0.6655,0.6984,0.0152,0.7761,0.666,0.8067,0.1933,0.5944,0.445,0.509,0.6682
+3. KNN Imputation (k=5),0.6524,0.6899,0.0145,0.7518,0.6517,0.77,0.23,0.5633,0.466,0.51,0.6691
+4. MICE (BayesianRidge),0.6673,0.6927,0.016,0.7747,0.6741,0.8133,0.1867,0.6084,0.4555,0.521,0.6697
+5. MICE (ExtraTrees - Proposed),0.6616,0.6964,0.021,0.7718,0.668,0.78,0.22,0.5875,0.4921,0.5356,0.6728
